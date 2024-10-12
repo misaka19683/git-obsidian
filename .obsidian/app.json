@@ -1,0 +1,16 @@
+{
+  "showLineNumber": true,
+  "newFileLocation": "folder",
+  "newFileFolderPath": "00 indox",
+  "attachmentFolderPath": "attachment",
+  "strictLineBreaks": true,
+  "pdfExportSettings": {
+    "includeName": true,
+    "pageSize": "A4",
+    "landscape": false,
+    "margin": "2",
+    "downscalePercent": 100
+  },
+  "vimMode": true,
+  "newLinkFormat": "absolute"
+}

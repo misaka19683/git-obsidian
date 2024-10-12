@@ -1,0 +1,16 @@
+{
+  "pageFormat": "{page}",
+  "distance": "15",
+  "prevConfig": {
+    "pageSise": "A4",
+    "marginType": "1",
+    "showTitle": true,
+    "open": true,
+    "scale": 100,
+    "landscape": false,
+    "marginTop": "0",
+    "marginBottom": "0",
+    "marginLeft": "0",
+    "marginRight": "0"
+  }
+}
